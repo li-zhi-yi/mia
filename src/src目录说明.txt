@@ -1,0 +1,11 @@
+api 模拟mock数据
+assets主题 字体 静态资源
+components 全局公共组件
+directive 全局指令
+filters 全局filter
+icons 项目所有icon
+router 路由
+store 全局store
+styles 全局样式
+views 路由界面
+
